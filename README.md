@@ -1,5 +1,5 @@
-# 👋 Ahoj, volám sa Peter! aka peterfromslovakia  
-# 👋 Hi, I'm Peter! aka peterfromslovakia
+# 👋 Ahoj, volám sa Peter!  
+# 👋 Hi, I'm Peter!
 
 🎯 **IT špecialista s viac ako 20-ročnou praxou** v oblasti správy infraštruktúry, sietí, bezpečnosti a automatizácie.  
 🎯 **IT Specialist with over 20 years of experience** in infrastructure, network, security, and automation.  
